@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Automation QA and Machine Learning.<br>👯 I'm looking to collaborate on Cyber security and Security testing.<br>🤝 I'm looking for help with Data science.<br>📚 I'm currently learning Ethical Hacking.<br>💬 Ask me about anything i can give.<br>✨ Fun fact: nothing is impossible.
+🔭 I'm currently working on Automation QA and Machine Learning.<br>👯 I'm looking to collaborate on Cyber security and Security testing.<br>🤝 I'm looking for help with Data science.<br>📚 I'm currently learning Ethical Hacking.<br>💬 Ask me about anything i can possibly share.<br>✨ Fun fact: nothing is impossible.
 
 
 ## 🌐 Socials:
