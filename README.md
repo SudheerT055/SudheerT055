@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Automation QA and Machine Learning.<br>I'm looking to collaborate on Cyber security and Security testing.<br>I'm looking for help with Data science.<br>I'm currently learning Ethical Hacking.<br>Ask me about anything i can give.<br>Fun fact: nothing is impossible.
+🔭 I'm currently working on Automation QA and Machine Learning.<br>👯 I'm looking to collaborate on Cyber security and Security testing.<br>🤝 I'm looking for help with Data science.<br>📚 I'm currently learning Ethical Hacking.<br>💬 Ask me about anything i can give.<br>✨ Fun fact: nothing is impossible.
 
 
 ## 🌐 Socials:
@@ -21,4 +21,4 @@ I'm currently working on Automation QA and Machine Learning.<br>I'm looking to c
 ---
 [![](https://visitcount.itsvg.in/api?id=SudheerT055&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
